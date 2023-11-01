@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.Form1.resources
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.Properties.Resources.resources
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\bin\Debug\gamezombiesx.exe.config
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\bin\Debug\gamezombiesx.exe
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\bin\Debug\gamezombiesx.pdb
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.exe
+C:\Users\Usuario\Desktop\gamezombiesx\gamezombiesx\obj\Debug\gamezombiesx.pdb
